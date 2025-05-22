@@ -1,0 +1,11 @@
+# Calculadora de Média Escolar
+# Objetivo: Criar um programa que calcula a média escolar de um aluno
+
+primeira_nota = 7.5
+segunda_nota = 8.0
+terceira_nota = 6.5
+
+media = (primeira_nota + segunda_nota + terceira_nota) / 3
+
+print(f"A média final do aluno é: {media:.2f}")
+
